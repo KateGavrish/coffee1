@@ -1,0 +1,3 @@
+([('main',
+   '/Users/gavrishekaterina/PycharmProjects/YandexLyceum/coffee/dist/main',
+   'EXECUTABLE')],)
